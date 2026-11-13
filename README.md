@@ -9,10 +9,9 @@ Assets** behind one small Worker.
 ## Live deployment
 
 <!-- 03-docs:begin -->
-Not recorded yet. The bootstrap's last phase writes the live URLs, the
-workspace and the secrets the Storybook uses into
-[ai/context/deployment.md](ai/context/deployment.md); how it deploys and
-how to operate it is in
+This site is **live**. Verified URLs, identity and the secrets it uses are
+recorded in [ai/context/deployment.md](ai/context/deployment.md) (re-rendered
+by the `03-docs` phase); how it deploys and how to operate it:
 [ai/context/operations.md](ai/context/operations.md).
 <!-- 03-docs:end -->
 
